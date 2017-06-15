@@ -1,2 +1,4 @@
 # presentations
 論文を解説したpowerpointのアーカイブ
+
+ファイル名は論文のタイトルをキャメルケースで表記.pptxにしてください。
