@@ -12,3 +12,5 @@
 [Overcoming Catastrophic Forgetting in Neural Networks](https://arxiv.org/pdf/1612.00796.pdf)
 
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
