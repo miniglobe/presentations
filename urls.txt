@@ -18,3 +18,5 @@ https://arxiv.org/pdf/1706.08606.pdf
 https://arxiv.org/pdf/1706.08224.pdf
 http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
 https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf
+https://arxiv.org/pdf/1312.6114.pdf
+https://arxiv.org/pdf/1406.5298.pdf
