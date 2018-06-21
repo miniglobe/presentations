@@ -21,3 +21,5 @@ https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf
 https://arxiv.org/pdf/1312.6114.pdf
 https://arxiv.org/pdf/1406.5298.pdf
 https://arxiv.org/pdf/1706.06759.pdf
+https://arxiv.org/pdf/1512.02325.pdf
+https://arxiv.org/abs/1512.03385
